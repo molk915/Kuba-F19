@@ -1,0 +1,8 @@
+# Lokalny checkout Sites. GitHub zawiera zwykłe pliki aplikacji w dist/.
+/kuba-f19/
+/kuba-f19-deploy.tar.gz
+/.openai/
+node_modules/
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,58 @@
+KUBA F19: WAHACZ PRZEZNACZENIA
+Based on unfortunately true events.
+
+URUCHOMIENIE
+Rozpakuj cały ZIP. Otwórz index.html w aktualnym Chrome, Edge, Firefox lub Safari.
+Folder assets musi pozostać obok index.html. Internet, Node.js, konto ani backend
+nie są potrzebne. Muzyka zaczyna się po pierwszym kliknięciu.
+
+STEROWANIE
+A/D lub strzałki lewo/prawo: skręt.
+W / strzałka w górę: dodatkowy gaz. Auto przyspiesza też automatycznie.
+S / strzałka w dół: hamulec.
+Spacja: ręczny, większy poślizg.
+E: reakcja na luźną klemę podczas powrotu.
+Esc lub P: pauza. Gra zatrzymuje się też po opuszczeniu okna.
+Na telefonie: przyciski pod drogą; można trzymać skręt i ręczny jednocześnie.
+
+ROZMOWY — WERSJA FABULARNA
+Wypowiedzi pozostają na ekranie, dopóki sam nie przejdziesz dalej.
+Użyj przycisku DALEJ, Enter lub spacji. Escape nie pomija rozmowy.
+Każdy rozmówca ma własny syntetyczny głos — „memłanie”, a nie prawdziwe nagranie.
+Przycisk POWTÓRZ MEMŁANIE odtwarza je jeszcze raz. DŹWIĘK ON/OFF wycisza
+wszystkie efekty. W rozmowie możesz rozwinąć poprzednie wypowiedzi.
+Podczas rozmów rozgrywka stoi. Po odpowiedzi kupcowi zostaje czytelne
+podsumowanie reakcji i zmiany oferty. Można też ponownie przeczytać rozmowę.
+
+WARSZTAT
+Wybierz właściwy wahacz. Przeciągnij go w ramkę albo dotknij części, potem ramki.
+Klikaj śruby, gdy żółty znacznik przechodzi przez zielony obszar. Każda śruba
+wymaga trzech dobrych dokręceń. Rozwiąż zdarzenie z zapieczoną nakrętką.
+
+PRZEBIEG
+Zakup -> 65 sekund driftu -> filmowy wypadek -> naprawa -> prawo jazdy ->
+około 2 minut jazdy do Warszawy -> 3 tury negocjacji -> Mazury -> finał.
+Czas całej gry zależy od tempa czytania, rozmów i naprawy.
+Wypadek kończący drift jest częścią fabuły niezależnie od wyniku.
+Utrata stanu wahacza lub silnika podczas powrotu pozwala powtórzyć trasę.
+
+FINAŁ
+Przycisk CERTYFIKAT LEGENDY zapisuje oryginalny dyplom PNG 1600 x 1100 px.
+Rekord jest zapisywany lokalnie, jeśli przeglądarka udostępnia localStorage.
+JESZCZE RAZ rozpoczyna nową grę, zachowując rekord.
+W albumie dostępne są zdjęcia z głównej historii, odkryte easter eggi i osiągnięcia.
+Nowe easter eggi: zaczep pięć razy portret w menu (lub wciśnij F), sprawdź profil
+sprzedawcy OLX w warsztacie, zajrzyj do dokumentów po zdobyciu prawa jazdy.
+Przy negocjacjach możesz zajrzeć do „zaplecza negocjacyjnego” Kuby.
+
+PUBLIKACJA NA STATYCZNYM HOSTINGU
+Prześlij index.html oraz folder assets w niezmienionym układzie do głównego
+katalogu strony. Nie potrzeba procesu budowania, zmiennych środowiskowych,
+serwera aplikacji, bazy danych ani płatnych API. Udostępnij otrzymany adres.
+Pliki są gotowe do standardowego hostingu statycznego.
+
+UWAGI FABULARNE
+Kwoty, wskaźniki i dialogi są elementami satyry, a nie dokumentacją finansową.
+Historia pochodzi z dostarczonego opisu. Lokalizacja Mercedesa w Piszu jest
+przedstawiona jako niepotwierdzona legenda. Gra nie pokazuje obrażeń ludzi.
+Muzyka i efekty są oryginalnie syntezowane przez Web Audio API.
